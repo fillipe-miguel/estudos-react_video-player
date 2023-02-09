@@ -1,0 +1,47 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    color: #d550d5;
+    height: 80px;
+    /* background-color: rgb(44, 44, 44); */
+
+    background: rgb(25, 3, 25);
+    background: linear-gradient(180deg, #790279 0%, rgb(25, 3, 25) 68%);
+}
+
+.header_title {
+    font-size: 40px;
+}
+
+.header_subtitle {
+    color: white;
+    font-size: 13px;
+    font-weight: bold;
+    margin-top: -15px;
+    margin-left: 2px;
+}
+
+.header_menu {
+    display: flex;
+}
+
+.header_menu a {
+    font-weight: bolder;
+    font-size: 20px;
+    margin-left: 10px;
+    padding: 5px 10px;
+    border-radius: 5px;
+
+    transition: all 0.3s ease-in-out;
+}
+
+.header_menu a:hover {
+    background-color: rgb(213, 80, 213);
+    box-shadow: 3px 3px 10px 3px #ffffff23;
+
+    color: rgb(44, 44, 44);
+
+    transition: all 0.5s ease-in-out;
+}

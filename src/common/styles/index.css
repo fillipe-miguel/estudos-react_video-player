@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+
+    scroll-behavior: smooth;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+ul {
+    list-style: none;
+}
+
+body {
+    overflow-x: hidden;
+    background-color: black;
+}
+
+body::-webkit-scrollbar {
+    width: 10px; /* width of the entire scrollbar */
+}
+
+body::-webkit-scrollbar-track {
+    background: black; /* color of the tracking area */
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: rgba(119, 2, 119, 1); /* color of the scroll thumb */
+}
