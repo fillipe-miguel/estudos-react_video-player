@@ -1,4 +1,4 @@
-# **Video Player** [⬅️try it](#) !!
+# **Video Player** [⬅️try it](https://estudos-react-video-player.netlify.app) !!
 
 ## 🎯 **_Objetivos_**
 
