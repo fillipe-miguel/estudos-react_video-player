@@ -36,9 +36,9 @@ _O projeto ainda não foi finalizado e existem muitas coisa a se fazer!!!_
 
 <br>
 
-![screenshot1](public\assets\readme_screenshots\image_videoPlayer1.png)
+![screenshot1](public/assets/readme_screenshots/image_videoPlayer1.png)
 
-![screenshot2](public\assets\readme_screenshots\image_videoPlayer2.png)
+![screenshot2](public/assets/readme_screenshots/image_videoPlayer2.png)
 
 ---
 
